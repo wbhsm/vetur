@@ -15,3 +15,4 @@ npm i -g vti
 # In your Vue project root
 vti diagnostics
 ```
+#1
